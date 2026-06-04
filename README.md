@@ -16,6 +16,7 @@ This repository contains a collection of smart contracts I deployed and interact
 | EventLogger.sol       | (待填)                                       | Event logging                    | Today        |
 | TaskTracker.sol       | (待填)                                       | Task tracking                    | Today        |
 | LevelUpSystem.sol     | (待填)                                       | Experience & level system        | Today        |
+| BridgeSimulator.sol   | 0x28cc12bCDfdD48FaB0f6B90B3f450Bc8471537F2   | Bridge simulation                | Today        |
 
 *(More contracts will be added daily)*
 
