@@ -17,6 +17,7 @@ This repository contains a collection of smart contracts I deployed and interact
 | TaskTracker.sol       | (待填)                                       | Task tracking                    | Today        |
 | LevelUpSystem.sol     | (待填)                                       | Experience & level system        | Today        |
 | BridgeSimulator.sol   | 0x28cc12bCDfdD48FaB0f6B90B3f450Bc8471537F2   | Bridge simulation                | Today        |
+| PointAccumulator.sol  | 0xAD8712a41B646104b4213d34A99FB6CA817114dA   | Points accumulation system       | Today        |
 
 *(More contracts will be added daily)*
 
