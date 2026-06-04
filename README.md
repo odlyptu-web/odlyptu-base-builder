@@ -19,6 +19,7 @@ This repository contains a collection of smart contracts I deployed and interact
 | BridgeSimulator.sol   | 0x28cc12bCDfdD48FaB0f6B90B3f450Bc8471537F2   | Bridge simulation                | Today        |
 | PointAccumulator.sol  | 0xAD8712a41B646104b4213d34A99FB6CA817114dA   | Points accumulation system       | Today        |
 | MessageBoard.sol      | 0xf509cFF76f80B6302d2B1d6753F349531eF89B12   | Message board system             | Today        |
+| QuestSystem.sol | 0x71Dd37215BFc87B9e41aa8a07fdECd33e47f2223| Quest completion system | Today |
 
 *(More contracts will be added daily)*
 
