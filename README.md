@@ -21,8 +21,7 @@ This repository contains a collection of smart contracts I deployed and interact
 | MessageBoard.sol      | 0xf509cFF76f80B6302d2B1d6753F349531eF89B12   | Message board system             | Today        |
 | QuestSystem.sol | 0x71Dd37215BFc87B9e41aa8a07fdECd33e47f2223| Quest completion system | Today |
 | RewardPool.sol | 0xb5dd3dd60a1b1d10aa01122852333b4957ecf2be | Reward distribution system | Today |
-
-
+| StakingPool.sol | 0x04A8E60F5EC7B755955D829484c919c2CD85F5c6 | Staking simulation | Today |
 
 *(More contracts will be added daily)*
 
