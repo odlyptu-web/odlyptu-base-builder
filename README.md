@@ -24,6 +24,8 @@ This repository contains a collection of smart contracts I deployed and interact
 | StakingPool.sol | 0x04A8E60F5EC7B755955D829484c919c2CD85F5c6 | Staking simulation | Today |
 | GovernanceMock.sol | 0x685D1Bc4697DEB3877446025c640bD23809eDa87 | Governance simulation | Today |
 | MultiCallSimulator.sol | 0xC86E8E2D12C93e48B0a29dC9Df0775BcfA6Af766 | Multi call simulation | Today |
+| OraclePriceFeed.sol | 0x13aDCBD13185dAD4F69f08972080B1cEf9564Bb0 | Price oracle simulation | Today |
+
 
 
 
