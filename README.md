@@ -27,6 +27,9 @@ This repository contains a collection of smart contracts I deployed and interact
 | OraclePriceFeed.sol | 0x13aDCBD13185dAD4F69f08972080B1cEf9564Bb0 | Price oracle simulation | Today |
 | LiquidityPoolMock.sol | 0x5a029b91a3FFbE6BcF2F8502AEaA15Ada48c7561 | Liquidity pool simulation | Today |
 | CrossChainMessenger.sol | 0xC36782903584F173e9042DBEd6Cfd59c2e42Cf8f | Cross chain message simulation | Today |
+| CrossChainBridgeMock.sol | 0x8093b080862c1F3b25a451336846cfF8835D6731 | Cross chain bridge simulation | Today |
+
+
 
 
 
