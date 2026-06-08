@@ -30,6 +30,8 @@ This repository contains a collection of smart contracts I deployed and interact
 | CrossChainBridgeMock.sol | 0x8093b080862c1F3b25a451336846cfF8835D6731 | Cross chain bridge simulation | Today |
 | YieldFarmMock.sol | 0x8f178B24723eE8bA8F0E3cb765eE9b3C1f82c1a2 | Yield farming simulation | Today |
 | OraclePriceFeedV2.sol | 0x0a2766378EF57DE88056De6Ef5bBbA96E9a8e6a4 | Price oracle simulation | Today |
+| BatchExecutor.sol | 0x554C5E3F78159629316EBcEf1312635A3E652B5B | Batch execution simulator | Today |
+
 
 
 
