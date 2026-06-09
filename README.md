@@ -32,19 +32,7 @@ This repository contains a collection of smart contracts I deployed and interact
 | OraclePriceFeedV2.sol | 0x0a2766378EF57DE88056De6Ef5bBbA96E9a8e6a4 | Price oracle simulation | Today |
 | BatchExecutor.sol | 0x554C5E3F78159629316EBcEf1312635A3E652B5B | Batch execution simulator | Today |
 | DelayTimer.sol | 0x637A9E358f35309E4e0BE535d37d12C05f9f5990 | Delay timer contract | Today |
-
-
-
-
-
-
-
-
-
-
-
-
-
+| LotteryDraw.sol | 0xf955d973a60708E83b599d65612a0286064432ff | Lottery draw simulation | Today |
 
 
 *(More contracts will be added daily)*
