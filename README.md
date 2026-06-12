@@ -35,6 +35,9 @@ This repository contains a collection of smart contracts I deployed and interact
 | LotteryDraw.sol | 0xf955d973a60708E83b599d65612a0286064432ff | Lottery draw simulation | Today |
 | VestingLocker.sol | 0x48B3603244a4eC93AEe34d585dFb604F97Bf2294 | Vesting locker contract | Today |
 | LiquidityPoolV2.sol | 0xa1405838A737D4d7A2C60D5941f6ed7d0220db71 | Liquidity pool v2 | Today |
+| GovernanceProposalV2.sol | 0xaA691B64581618c20b19be4d3eCD0B744150A366 | Governance proposal v2 | Today |
+
+
 
 
 
