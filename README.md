@@ -36,6 +36,8 @@ This repository contains a collection of smart contracts I deployed and interact
 | VestingLocker.sol | 0x48B3603244a4eC93AEe34d585dFb604F97Bf2294 | Vesting locker contract | Today |
 | LiquidityPoolV2.sol | 0xa1405838A737D4d7A2C60D5941f6ed7d0220db71 | Liquidity pool v2 | Today |
 | GovernanceProposalV2.sol | 0xaA691B64581618c20b19be4d3eCD0B744150A366 | Governance proposal v2 | Today |
+| NFTMinterV3.sol | 0x9FAAceF779616aAf9749A6687dd548EcCF6A0483 | NFT minter v3 | Today |
+
 
 
 
