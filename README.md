@@ -38,6 +38,8 @@ This repository contains a collection of smart contracts I deployed and interact
 | GovernanceProposalV2.sol | 0xaA691B64581618c20b19be4d3eCD0B744150A366 | Governance proposal v2 | Today |
 | NFTMinterV3.sol | 0x9FAAceF779616aAf9749A6687dd548EcCF6A0483 | NFT minter v3 | Today |
 | MultiSigMockV2.sol | 0xaB8347942A774c9E3646eBC5a0D398b30B3379d0 | Multi signature v2 | Today |
+| TaskBoard.sol | 0x4878D76D569FAF25B6A2eBb671d90382d66F923b | Task board system | Today |
+
 
 
 
